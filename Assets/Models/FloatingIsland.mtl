@@ -1,0 +1,9 @@
+newmtl Mountain
+map_Kd Mountain.png
+Kd 1 1 1
+d 1
+
+newmtl Light_Green
+Kd 0.50873 0.8553459 0.3254617
+d 1
+

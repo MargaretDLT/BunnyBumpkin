@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b484975c8f6b58c40b96534b64b3e60d
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 9f84a28c40603da4f84023a60b6193ee
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 4d1bd210cfb109d408a92d01118d79a8
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: bd0a541d86fe57f479344f204d081d24
+  - enabled: 1
+    path: Assets/Scenes/SecretMenu.unity
+    guid: 804d2135c4a94dd488cbaac8b3fef151
+  - enabled: 1
+    path: Assets/Scenes/Bumpkin3D.unity
+    guid: b1f802de46977cb41bd4677b0ef5d4d1
+  - enabled: 1
+    path: Assets/Scenes/Prototype01.unity
+    guid: 799dc3b0f3d9def4c8a257f8e06180ce
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Aleks01.unity
+    guid: 4b9338b34a5ec29449fdd37c68088220
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Alexjay01.unity
+    guid: ae17021562ae77845829f6fe787cb5d4
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Benick01.unity
+    guid: 79aa39dfc8e0ad146bb785a40ab73f74
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Briana01.unity
+    guid: e384e3715c9346e44a90ae3fff20ebbe
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Dustin01.unity
+    guid: a32d9137a55627d4880078adcccc4498
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Meg01.unity
+    guid: 6df6de00e80adac44a6712dcf1fede26
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Max01.unity
+    guid: c012ab38546842b4eb5651b50fbc7b96
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Melissa01.unity
+    guid: 9eceb43d05e36dc4ebadbc36fb6e4e95
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Michelle01.unity
+    guid: ae595db785d9d644ebf511192df79439
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Rachel01.unity
+    guid: 77812a38695953640ac76184ecbc0091
+  - enabled: 1
+    path: Assets/Scenes/StudentLevels/Ryan01.unity
+    guid: c0c031fecc794b640a4f1a8556ab758a
+  - enabled: 1
+    path: Assets/Scenes/BossTest.unity
+    guid: ccdc6af9c69dfaa499d9ab7bd3d0b865
+  - enabled: 1
+    path: Assets/Scenes/ExperimenScenes/TestModelingScratch.unity
+    guid: 74544734e8162c14695525fe2ca41ede
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
